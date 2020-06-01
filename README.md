@@ -70,3 +70,5 @@ Below is a list of the quest requirements, objectives and rewards I implemented:
 - Give item to NPC
 - Hide NPC avatar
 - Unlock a new quest
+
+© 2020 Olli Sorjonen All Rights Reserved
